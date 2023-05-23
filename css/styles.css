@@ -40,7 +40,7 @@ ul
 }
 .hidden
 {
-    display: none !important;
+    display: none ;
 }
 .main-content
 {
